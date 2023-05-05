@@ -30,8 +30,8 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
     hardhat: {
     },
     polygonMumbai: {
-      url: 'https://polygon-mumbai.infura.io/v3/23f6df0cf29e4939a55ac56bacfbb3a9',
-      accounts: ['4c41ce02966d78bab56aafe767d27ec91ba5f170a7d01f6b548226fcc1b17968']
+      url: '',
+      accounts: ['']
     }
   },
   
